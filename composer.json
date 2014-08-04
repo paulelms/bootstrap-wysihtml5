@@ -1,0 +1,30 @@
+{
+    "name": "components/bootstrap-wysihtml5",
+    "description": "wysiwyg editor for bootstrap2 (forked from jhollingworth/bootstrap-wysihtml5)",
+    "type": "component",
+    "keywords": ["wysiwyg", "editor", "bootstrap", "bootstrap2", "yii", "extension"],
+    "license": "MIT",
+    "version": "0.0.3",
+    "authors": [
+        {
+            "name": "Pavel Vyazovoi",
+            "email": "paul@elms.pro"
+        },
+        {
+            "name": "James Hollingworth",
+            "email": "jamiehollingworth@gmail.com"
+        }
+    ],
+    "extra": {
+        "name": "bootstrap-wysihtml5",
+        "component": {
+            "files": [
+                "./src/**",
+                "./lib/**",
+            ]
+        }
+    },
+    "require": {
+        "robloach/component-installer": "*"
+    }
+}
