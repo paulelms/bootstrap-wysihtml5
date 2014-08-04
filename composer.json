@@ -1,5 +1,5 @@
 {
-    "name": "components/bootstrap-wysihtml5",
+    "name": "vyazovoi/bootstrap-wysihtml5",
     "description": "wysiwyg editor for bootstrap2 (forked from jhollingworth/bootstrap-wysihtml5)",
     "type": "component",
     "keywords": ["wysiwyg", "editor", "bootstrap", "bootstrap2", "yii", "extension"],
