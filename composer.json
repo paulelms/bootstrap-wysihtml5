@@ -20,7 +20,7 @@
         "component": {
             "files": [
                 "./src/**",
-                "./lib/**",
+                "./lib/**"
             ]
         }
     },
